@@ -1,0 +1,22 @@
+{% extends "bootstrap/base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% block title %}
+Sql query scan
+{% endblock %}
+{% block styles %}
+{{super()}}
+
+{% endblock %}
+{% block content %}
+<br><br><a class="btn btn-primary" href="{{ url_for('logout') }}">Log Out</a><br><br><br><br><br><br><br><br><br><h1><center>enter the sql query</center></h1><br>
+<form action="/dash" xmlns:text-align="http://www.w3.org/1999/html">
+    <text-align:center>
+
+      <center><input type="text" name="SqlQuery"></center><br>
+    <center><button type="submit" class="btn btn-primary">Submit</button></center>
+
+</text-align:center>
+
+</form>
+
+{% endblock %}
