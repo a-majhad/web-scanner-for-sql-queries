@@ -11,4 +11,5 @@ flask_bootstrap <br>
 flask_wtf <br>
 wtforms
 <br><br>
-<h1> first run install.py then run app.py <h1>
+<h1>install<h1>
+  <h3>run install.py then run app.py<h3>
