@@ -3,10 +3,12 @@ web scanner based on Artificial intelligence
 
 requirements 
 _______________________________________
-flask
-werkzeug.security
-flask_login
-flask_sqlalchemy
-flask_bootstrap
-flask_wtf
+flask <br>
+werkzeug.security <br>
+flask_login <br>
+flask_sqlalchemy <br>
+flask_bootstrap <br>
+flask_wtf <br>
 wtforms
+<br><br>
+<h1> first run install.py then run app.py <h1>
