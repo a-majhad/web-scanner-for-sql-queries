@@ -1,5 +1,5 @@
-# web-scanner-based-on-AI
-web scanner based on Artificial intelligence 
+# web-scanner-for-sql-queries
+web scanne check the sql queries
 
 requirements 
 _______________________________________
